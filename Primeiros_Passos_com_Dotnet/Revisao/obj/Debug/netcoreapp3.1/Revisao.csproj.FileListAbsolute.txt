@@ -1,0 +1,14 @@
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.AssemblyReference.cache
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\adeni\Development\DIO\Primeiros_Passos_com_Dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
